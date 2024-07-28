@@ -49,3 +49,6 @@
 // const a = 90;   // we cannot re-assign the value of a variable ones declared
 // a = 30;
 // console.log(a)
+
+// const c = 40;
+// in const we need to give the value of the variable immediately

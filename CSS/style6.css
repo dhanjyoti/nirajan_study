@@ -1,0 +1,13 @@
+.div-tag{
+    height: 40px;
+    background-color: bisque;
+    text-align: end;
+}
+
+.anchor-tag{
+    text-decoration: none;
+    color: brown;
+    font-weight: 800;
+    font-size: 30px;
+    background-color: aqua;
+}

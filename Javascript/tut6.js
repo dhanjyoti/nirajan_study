@@ -75,3 +75,4 @@
 // John age is 24, Prem age is 26, Rohit age is 25. 
 // So create 3 function of if else condition to so that the answer is 
 // comes out to be true, with the help of Logical AND, OR, NOT respectively.
+

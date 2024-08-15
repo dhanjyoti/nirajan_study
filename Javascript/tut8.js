@@ -45,7 +45,7 @@ count = 0;
 let arr = [1, "apple", true, 87.45];
 
 let i = 0;
-console.log("lenngth of array = ",arr.length)
+console.log("length of array = ",arr.length)
 
 while(i < arr.length){
     console.log(arr[i])

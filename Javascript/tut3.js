@@ -49,8 +49,8 @@ let classroom = {           // always in curly brackets, it has key & value pair
     students: 50,
     classes: 3
 }
-console.log(classroom)  // all
-console.log(classroom.students)
-console.log(classroom.teacher)
-console.log(classroom.classes)
+// console.log(classroom)  // all
+// console.log(classroom.students)
+// console.log(classroom.teacher)
+// console.log(classroom.classes)
 
